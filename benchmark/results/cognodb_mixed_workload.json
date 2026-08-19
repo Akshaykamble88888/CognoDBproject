@@ -1,0 +1,17 @@
+{
+    "configuration": {
+        "concurrency": 10,
+        "read_percentage": 70,
+        "write_percentage": 30,
+        "duration_seconds": 20.34195760000148
+    },
+    "operations": {
+        "total": 475,
+        "reads": 340,
+        "writes": 135,
+        "errors": 0
+    },
+    "throughput": {
+        "qps": 23.350751650370437
+    }
+}

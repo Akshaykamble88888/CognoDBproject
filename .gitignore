@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+results/raw/
+data/raw/
+.DS_Store
+
+
+data/soc-pokec.txt
+data/soc-pokec.txt.gz
+data/pokec_edges.csv

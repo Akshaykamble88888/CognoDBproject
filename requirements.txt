@@ -1,0 +1,6 @@
+neo4j==5.28.1
+python-dotenv==1.1.1
+pandas==2.3.1
+numpy==2.3.2
+matplotlib==3.10.3
+python-arango==8.2.1
